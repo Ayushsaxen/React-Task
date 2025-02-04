@@ -49,7 +49,7 @@ Authentication Pages: Static login and signup pages.
 ![Signup Page](public/react-sign-up.png)
 
 ### 3️⃣ Counter Component
-![Counter Component](public/react-counter.png)
+![Counter Component](public/react-conuter.png)
 
 ### 4️⃣ Login Page
 ![Login Page](public/react-login-page.png)
