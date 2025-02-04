@@ -39,6 +39,28 @@ Text Editor: Implemented using React-Quill.
 
 Authentication Pages: Static login and signup pages.
 
+
+## Screenshots
+
+### 1️⃣ React Text Editor
+![React Text Editor](public/react-text-editor.png)
+
+### 2️⃣ Signup Page
+![Signup Page](public/react-sign-up.png)
+
+### 3️⃣ Counter Component
+![Counter Component](public/react-counter.png)
+
+### 4️⃣ Login Page
+![Login Page](public/react-login-page.png)
+
+### 5️⃣ Task Screenshot
+![Task Screenshot](public/react-task-screenshot.png)
+
+
+
+
+
 Installation & Setup
 
 Clone the repository
