@@ -44,7 +44,7 @@ React-Router-Dom - A library for handling navigation and routing in a React appl
 
 ## Screenshots
 
-### 1️⃣ React Text Editor
+### 1️⃣  Text Editor
 ![React Text Editor](public/react-text-editor.png)
 
 ### 2️⃣ Signup Page
@@ -56,7 +56,7 @@ React-Router-Dom - A library for handling navigation and routing in a React appl
 ### 4️⃣ Login Page
 ![Login Page](public/react-login-page.png)
 
-### 5️⃣ Task Screenshot
+### 5️⃣ User Form
 ![Task Screenshot](public/react-task-screenshot.png)
 
 
